@@ -94,10 +94,7 @@ section:nth-child(odd){
           position: relative;
           margin-top: 50px;
           padding-right: 850px;
-
 }
-
-
 
 .Introduction h1{
           position: relative;
@@ -105,7 +102,6 @@ section:nth-child(odd){
           margin-left: -10%;
           font-size: 60px;
           color:  #358484;
-
 }
 
 
@@ -116,22 +112,25 @@ section:nth-child(odd){
           color: #900C3F;
 }
 
+
 .discript p{
           font-family: 'Caveat', cursive;
 }
+
 
 .discript h2{
           font-family: 'Montserrat Alternates', sans-serif;          
 }
 
+
 .discript h4{
           font-family: 'Montserrat Alternates', sans-serif;
 }
 
+
 .discript pre{
           font-family: 'Montserrat Alternates', sans-serif;
 }
-
 
 
 .Introduction a{
@@ -146,13 +145,14 @@ section:nth-child(odd){
           border-radius: 15px;
           letter-spacing: 2px;
           color: #358484;
-
 }
+
 
 .Introduction a:hover{
           color: rgb(32, 99, 100);
           border-color: rgb(32, 99, 100);
 }
+
 
 .anuj img{
           height: 300px;
@@ -162,17 +162,18 @@ section:nth-child(odd){
 }
 
 
-
 /* profile */
 
 #profile{
           flex: none;
 }
 
+
 .discript{
           /* margin-top: 200px; */
           margin-right: 500px;
 }
+
 
 .pic3 img{
           height: 300px;
@@ -181,19 +182,21 @@ section:nth-child(odd){
 }
 
 
-
 .discript p{
           margin-top: 10px;
           font-size: 30px;
 }
 
+
 .discript h1{
           font-size: 100px;
 }
 
+
 .discript h2:hover{
   color: #358484;
 }
+
 
 .discript h4:hover{
   color: #358484;
@@ -209,15 +212,11 @@ section:nth-child(odd){
           color:  #358484;
 }
 
+
 .programs h1:hover{
   color:  #66BFBF;
 }
 
-/* .programs pre{
-          position: relative;
-          margin-top: 150px;
-          font-size: 30px;
-} */
 
 .programs p img{
   position: relative;
@@ -228,7 +227,6 @@ section:nth-child(odd){
 }
 
 
-
 /* projects */
 
 .Work h1{
@@ -237,10 +235,10 @@ section:nth-child(odd){
           color:  #66BFBF;
 }
 
+
 .Work h1:hover{
   color:  #358484;
 }
-
 
 
 .ProjectList{
@@ -249,15 +247,18 @@ section:nth-child(odd){
           font-size: 40px;
 } 
 
+
 .ProjectList pre{
           font-size: 10px;
           color: #6b7a7a;
 }
 
+
 .ProjectList p{
           font-size: 10px;
           color: rgb(48, 47, 47);
 }
+
 
 .ProjectList ol{
           line-height: 1.5;
@@ -267,17 +268,17 @@ section:nth-child(odd){
 .ProjectList li{
           line-height: 2;
           font-size: 20px;
-          font-family: 'Montserrat Alternates', sans-serif;  
-        
+          font-family: 'Montserrat Alternates', sans-serif;        
 }
+
 
 .ProjectList li a{
           text-decoration: none;
 }
 
+
 .ProjectList pre{
           line-height: 3;
-
           font-size: 10px;
           font-family: 'Montserrat Alternates', sans-serif;          
 }
@@ -287,15 +288,18 @@ section:nth-child(odd){
           position: relative;
 }
 
+
 .Connect h1{
           font-size: 80px;
           margin-bottom: 40px;
           margin-left: 60px;
 }
 
+
 .Connect h1:hover{
           color:  #358484;
 }
+
 
 .Connections img{
           margin-left: 20px;
