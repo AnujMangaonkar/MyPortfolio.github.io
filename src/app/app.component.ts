@@ -36,7 +36,7 @@ export class AppComponent {
   mysql = "assets/MySQL.png";
   
   html = "assets/HTML.png";
-  css = "assets/C.png";
+  css = "assets/CSS.png";
   js = "assets/JavaScript.png";
   jq = "assets/jQuery.png";
   bs = "assets/Bootstrap.png";
